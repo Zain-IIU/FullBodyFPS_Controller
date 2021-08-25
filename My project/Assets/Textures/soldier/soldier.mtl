@@ -1,0 +1,110 @@
+# Exported from Fuse 1.3.0
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd soldier_Top_diffuse.png
+map_Ks soldier_Top_specular.png
+bump soldier_Top_normal.png
+map_Ns soldier_Top_gloss.png
+
+newmtl Eyewear
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd soldier_Eyewear_diffuse.png
+map_Ks soldier_Eyewear_specular.png
+bump soldier_Eyewear_normal.png
+map_Ns soldier_Eyewear_gloss.png
+
+newmtl Glove
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd soldier_Glove_diffuse.png
+map_Ks soldier_Glove_specular.png
+bump soldier_Glove_normal.png
+map_Ns soldier_Glove_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd soldier_Shoes_diffuse.png
+map_Ks soldier_Shoes_specular.png
+bump soldier_Shoes_normal.png
+map_Ns soldier_Shoes_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd soldier_Body_diffuse.png
+map_Ks soldier_Body_specular.png
+bump soldier_Body_normal.png
+map_Ns soldier_Body_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd soldier_Bottom_diffuse.png
+map_Ks soldier_Bottom_specular.png
+bump soldier_Bottom_normal.png
+map_Ns soldier_Bottom_gloss.png
+
+newmtl Hat
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd soldier_Hat_diffuse.png
+map_Ks soldier_Hat_specular.png
+bump soldier_Hat_normal.png
+map_Ns soldier_Hat_gloss.png
+
+newmtl Moustache
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd soldier_Moustache_diffuse.png
+map_Ks soldier_Moustache_specular.png
+bump soldier_Moustache_normal.png
+map_Ns soldier_Moustache_gloss.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd soldier_Hair_diffuse.png
+map_Ks soldier_Hair_specular.png
+bump soldier_Hair_normal.png
+map_Ns soldier_Hair_gloss.png
+
